@@ -1,4 +1,4 @@
-﻿test
+﻿test test
 Python组件：
 1. python2.7
 2. Django1.7.1
